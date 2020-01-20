@@ -4,9 +4,12 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start:server": "live-server --open=./11-ExistanceAndBooleans --host=127.0.0.1 --port=3020"
+        "start:server": "live-server --open=./12-DefaultValues --host=127.0.0.1 --port=3020"
     },
     "author": "",
     "license": "ISC",
-    "dependencies": {}
+    "dependencies": {},
+    "devDependencies": {
+        "live-server": "^1.2.1"
+    }
 }
