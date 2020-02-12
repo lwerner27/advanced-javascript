@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start:server": "live-server --open=./14-ObjectsAndTheDot --host=127.0.0.1 --port=3020"
+        "start:server": "live-server --open=./15-FakingNamespaces --host=127.0.0.1 --port=3020"
     },
     "author": "",
     "license": "ISC",
